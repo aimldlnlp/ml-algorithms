@@ -1,3 +1,3 @@
-# [Coursera] Linear Regression with Python
+# Machine Learning Algorithms
 
-This project is about implementing linear regression with python by coursera
+This repository serves as a comprehensive collection of implementations for various machine learning algorithms.
